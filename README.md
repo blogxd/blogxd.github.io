@@ -22,8 +22,8 @@
 </div>
 <div class="banner">
 <div class="app-text">
-    <h1>ساخت سایت</h1>
-    <p>ساخت سایت با شما </p>
+ <h1>ساخت سایت</h1>
+ <p>ساخت سایت با شما </p>
 </div>
 
 
@@ -42,22 +42,21 @@
 <br><br>
 
 <div class="play-btn">
-    <div class="play-btn-inner">
+<div class="play-btn-inner">
        
 
 
-    </div>
-
-    <small><b>LEARN MORE</b></small>
-    <div class="quick-links">
-    <ul>
-    <li><p>share to</p></li>
-    <li><p>RECEDNT NEWS</p></li>
-    <li><p>share to</p></li>
-    <li><p>share to</p></li>
+</div>
+<small><b>LEARN MORE</b></small>
+<div class="quick-links">
+<ul>
+<li><p>share to</p></li>
+<li><p>RECEDNT NEWS</p></li>
+<li><p>share to</p></li>
+<li><p>share to</p></li>
     
-    </u>
+</u>
     
-    </div>
+</div>
 </body>
 </html>
