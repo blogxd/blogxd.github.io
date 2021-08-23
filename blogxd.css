@@ -111,7 +111,7 @@ body{
 
 }
 #services .btn-primary{
-    box-shadow: none ;
+   // box-shadow: none ;
     padding: 8px 25px;
     border: none;
     border-radius:  20px;
