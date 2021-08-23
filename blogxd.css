@@ -113,7 +113,7 @@ body{
 #services .btn-primary{
    // box-shadow: none ;
     padding: 8px 25px;
-    border: none;
+   // border: none;
     border-radius:  20px;
     background-image:linear-gradient(to right,#a517ba,#5f1782);
 
