@@ -1,7 +1,105 @@
+/*--------------------------------button---------------------------------------*/
+
+button.jnb{
+    background-image:linear-gradient(#2c3fce,#2bc037 , #d622c7 , #df1d1d ), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color: #fff;
+    width: 150px;
+}
+button.jvb{
+    background-image:linear-gradient(#0000002a , #e1e1e193), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color: #fff;
+    width: 150px;
+}
+button.jab{
+    background-image:linear-gradient(#01ffaafb , #0affb593), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color: #fff;
+    width: 150px;
+}
+button.jfb{
+    background-image:linear-gradient(#fffffffb , #00000093), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    width: 150px;
+}
+button.j0b{
+    background-image:linear-gradient(#00000093 , #fffffffb), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+
 button.b{
-color:#f1f1f1;
-background-color:#F1F1F1;
-
-
+    background: blue;
+    box-shadow: 4%;
 
 }
+
+button.b-fff{
+    background: blue;
+    box-shadow: 4%;
+    color: cornsilk;
+}
+button.r{
+    background: rgb(230, 41, 41);
+    box-shadow: 4%;
+}    
+button.r-fff{
+    background: rgb(230, 41, 41);
+    box-shadow: 4%;
+    color:#fff;
+}    
+/*---------------------------------body------------------------------------*/
+body.jn{
+    background-image:linear-gradient(#2c3fce,#2bc037 , #d622c7 , #df1d1d ), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    
+}
+body.jv{
+    background-image:linear-gradient(#0000002a , #e1e1e193), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    
+}
+body.ja{
+    background-image:linear-gradient(#01ffaafb , #0affb593), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    
+}
+body.jf0{
+    background-image:linear-gradient(#fffffffb , #00000093), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+
+}
+body.j0f{
+    background-image:linear-gradient(#00000093 , #fffffffb), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    
+}
+
+/*-------------------------------------------div-----------------------------------------------*/
+
+
+
+div.jnd{
+    background-image:linear-gradient(#2c3fce,#2bc037 , #d622c7 , #df1d1d ), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    
+}
+div.jvd{
+    background-image:linear-gradient(#0000002a , #e1e1e193), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    
+}
+div.jad{
+    background-image:linear-gradient(#01ffaafb , #0affb593), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    
+}
+div.jf0d{
+    background-image:linear-gradient(#fffffffb , #00000093), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    
+}
+div.j0fd{
+    background-image:linear-gradient(#00000093 , #fffffffb), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    
+}
+
+
+
+
