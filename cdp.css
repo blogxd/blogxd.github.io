@@ -102,26 +102,26 @@ div.j0fd{
 
 
 jnh{
-    color:linear-gradient(#2c3fce,#2bc037 , #d622c7 , #df1d1d ), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
-    
+    background-image:linear-gradient(#2c3fce,#2bc037 , #d622c7 , #df1d1d ), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color:#fff;
     width: 150px;
 }
 jvh{
-    color:linear-gradient(#0000002a , #e1e1e193), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
-    
+    background-image:linear-gradient(#0000002a , #e1e1e193), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color:#fff;
     width: 150px;
 }
 jah{
-    color:linear-gradient(#01ffaafb , #0affb593), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
-    
+    background-image:linear-gradient(#01ffaafb , #0affb593), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color:#fff;
     width: 150px;
 }
 jfh{
-    color:linear-gradient(#fffffffb , #00000093), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+   background-image:linear-gradient(#fffffffb , #00000093), radial-gradient(circle at top left,#fcfcfc,#020505) ;
     width: 150px;
 }
 j0h{
-    color:linear-gradient(#00000093 , #fffffffb), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    background-image:linear-gradient(#00000093 , #fffffffb), radial-gradient(circle at top left,#fcfcfc,#020505) ;
     width: 150px;
 }
 
