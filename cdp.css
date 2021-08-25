@@ -101,5 +101,27 @@ div.j0fd{
 }
 
 
-
+h1.jnh{
+    background-image:linear-gradient(#2c3fce,#2bc037 , #d622c7 , #df1d1d ), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color: #fff;
+    width: 150px;
+}
+h2.jvh{
+    background-image:linear-gradient(#0000002a , #e1e1e193), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color: #fff;
+    width: 150px;
+}
+h3.jah{
+    background-image:linear-gradient(#01ffaafb , #0affb593), radial-gradient(circle at top left,#fd00da,#19d7f8) ;
+    color: #fff;
+    width: 150px;
+}
+h4.jfh{
+    background-image:linear-gradient(#fffffffb , #00000093), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    width: 150px;
+}
+h5.j0h{
+    background-image:linear-gradient(#00000093 , #fffffffb), radial-gradient(circle at top left,#fcfcfc,#020505) ;
+    width: 150px;
+}
 
